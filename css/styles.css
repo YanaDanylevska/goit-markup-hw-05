@@ -715,12 +715,8 @@ margin-top: 8px;
 
 .modal-close-btn-icon:hover,
 .modal-close-btn-icon:focus {
-  
     fill: #ffffff;
 }
-
-
-
 
 .review-form-description {
     margin-bottom: 16px;
@@ -747,6 +743,7 @@ margin-top: 8px;
 
 .review-form-input-wrapper {
     position: relative;
+    margin-bottom: 8px;
 }
 
 .review-form-field {
