@@ -705,6 +705,11 @@ margin-top: 8px;
     border: none;
 }
 
+.close-modal-btn:hover .modal-close-button-icon,
+.close-modal-btn:focus .modal-close-button-icon {
+    fill: #FFFFFF;
+}
+
 .modal-close-btn,
 .modal-close-btn-icon {
     fill: #2e2f42;
